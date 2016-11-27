@@ -1,3 +1,9 @@
+TITLE: Community Business Meeting Minutes
+
+SUBTITLE: Germantown Commons Cohousing 2016-11-13
+
+AUTHOR: John Waide
+
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
