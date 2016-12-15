@@ -1,3 +1,8 @@
+# Community Business Meeting Minutes
+## Germantown Commons 2016-12-12
+Author: John Waide
+Date: 2016-12-12
+
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
